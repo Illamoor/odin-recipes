@@ -1,0 +1,71 @@
+h1, h2, h3, h4, h5, h6 {
+
+color: white;
+background-color: darkgrey;
+margin-bottom: 16px;
+padding: 10px;
+text-align: center;
+font-style: italic;
+}
+
+img {
+
+display: block;
+border-style: dotted; 
+border-width: 10px;
+border-color: lightsteelblue;
+margin: 0 auto;
+width: 300px;
+/* ????? */
+
+}
+
+h1 {
+
+font-size: 30px;
+font-weight: bold;
+
+}
+
+ul, li, ol {
+
+color: black;
+background-color: lightsteelblue;
+margin: auto;
+margin-right: 300px;
+padding: 10px;
+text-align: left;
+list-style-position: inside;
+    
+}
+
+a {
+
+color: black;
+text-decoration: none;
+
+}
+
+div {
+    padding: 10px;
+}
+
+div h3 {
+    margin: 0 0 8px 0;
+}
+
+div a {
+    display: block;
+    margin: 4px 0;
+}
+
+#source {
+
+background-color: white;
+text-align: left;
+color: black;
+font-style: normal;
+font-size: 10px;
+margin: auto;
+
+}
